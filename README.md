@@ -30,3 +30,4 @@
 
   -Escribe un programa que solicite al usuario ingresar un número del 1 al 7, que represente un día de la semana.
   -Utiliza una estructura switch para mostrar el nombre del día correspondiente.
+  castro fermin y jara luciano
